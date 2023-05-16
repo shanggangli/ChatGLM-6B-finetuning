@@ -1,10 +1,7 @@
-# -*- coding:utf-8 -*-
-# @project: ChatGPT
-# @filename: data_set
-# @author: 刘聪NLP
-# @zhihu: https://www.zhihu.com/people/LiuCongNLP
-# @contact: logcongcong@gmail.com
-# @time: 2023/4/4 14:42
+# @project: ChatGLM-6b-int4-Finetuning
+# @filename: finetuning_embedding
+# @author: SgangX
+# @time: 2023/5/13 21:21
 """
     文件说明：
             
