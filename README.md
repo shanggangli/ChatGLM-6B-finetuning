@@ -1,5 +1,5 @@
 
-## ChatGLM-6b-int4
+## Fine Tuning: ChatGLM-6b-int4
 This project focuses on the fine tuning of [ChatGLM-6B-int4 model](https://huggingface.co/THUDM/chatglm-6b-int4) in different ways (freeze\embeding\PT\LoRA), and comparing the effect of different fine tuning methods on the large model, mainly for information extraction task, generation task, classification task, etc.\
 \
 And if you fine tuning other version of ChatGLM-6B(like [pf16](https://huggingface.co/THUDM/chatglm-6b)), you need to upate the version corresponding to 
